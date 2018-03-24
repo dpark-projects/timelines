@@ -1,0 +1,435 @@
+#timelines
+
+I created the video timelines for Lesson 8 to 14, and added them to each wiki: they can serve as detailed syllabus for newcomers and veterans altogether.
+
+Also many topics are covered, and explored again, through several videos so I thought I’d make a mega-thread for easier/faster keyword search.
+
+If you are looking for the Part 1 video collection, please check this link:
+As a companion to the post “Part #2: complete collection of video timelines”, please find his twin brother for Part #1 below. Note: this post is an ensemble of the video timelines created by interns & students of Part #1 in the Wiki; I made some editing to keep the flow consistent between lessons. The full Part #2 video syllabus is available here: Lesson 1 video timeline 00:00:00 - Fast AI & the course https://youtu.be/Th_ckFbc6bI?t=1s 00:05:29 - Why Deep Learning is exciting https:…
+Lesson 8 video timeline
+
+0:00:00 Intro and review of Part 1
+
+https://youtu.be/cRjPVN3oo4s?t=014
+00:08:00 Moving to Python 3
+
+https://youtu.be/cRjPVN3oo4s?t=8m4
+00:10:30 Moving to Tensorflow and TF Dev Summit videos
+
+https://youtu.be/cRjPVN3oo4s?t=10m30s2
+00:22:15 Moving to PyTorch
+
+https://youtu.be/cRjPVN3oo4s?t=22m10s4
+00:27:30 From Part 1 “best practices” to Part 2 “new directions”
+
+https://youtu.be/cRjPVN3oo4s?t=27m30s1
+00:31:40 Time to build your own box
+
+https://youtu.be/cRjPVN3oo4s?t=31m40s2
+00:36:20 Time to start reading papers
+
+https://youtu.be/cRjPVN3oo4s?t=36m20s3
+00:39:30 Time to start writing about your work in this course
+
+https://youtu.be/cRjPVN3oo4s?t=39m30s
+00:41:30 What we’ll study in Part 2
+
+https://youtu.be/cRjPVN3oo4s?t=41m30s2
+00:40:40 Artistic style (or neural style) transfer
+
+https://youtu.be/cRjPVN3oo4s?t=40m40s2
+00:52:10 Neural style notebook
+
+https://youtu.be/cRjPVN3oo4s?t=52m10s1
+00:54:15 Mendeley Desktop, an app to track research papers
+
+https://youtu.be/cRjPVN3oo4s?t=54m15s
+00:56:15 arXiv-Sanity.com
+
+https://youtu.be/cRjPVN3oo4s?t=56m15s4
+00:59:00 Jeremy on twitter.com and reddit.com/r/MachineLearning/
+
+https://youtu.be/cRjPVN3oo4s?t=59m2
+01:01:15 Neural style notebook (continued)
+
+https://youtu.be/cRjPVN3oo4s?t=1h1m15s1
+01:04:05 Broadcasting, APL as “A Programming Language”, and Jsoftware
+
+https://youtu.be/cRjPVN3oo4s?t=1h4m5s1
+01:07:15 Broadcasting with Keras
+
+https://youtu.be/cRjPVN3oo4s?t=1h7m15s
+01:12:00 Recreate input with a VGG model
+
+https://youtu.be/cRjPVN3oo4s?t=1h12m2
+01:22:45 Optimize the loss function with a deterministic approach
+
+https://youtu.be/cRjPVN3oo4s?t=1h22m45s1
+01:33:25 Visualize the iterations through a short video
+
+https://youtu.be/cRjPVN3oo4s?t=1h33m25s
+01:37:30 Recreate a style
+
+https://youtu.be/cRjPVN3oo4s?t=1hm7m30s1
+01:44:05 Transfer a style
+
+https://youtu.be/cRjPVN3oo4s?t=1h44m5s
+Lesson 9 video timeline
+
+00:00:30 Contribute to, and use Lesson 8 Wiki
+
+https://youtu.be/I-P363wSv0Q?t=30s
+00:02:00 Experiments on Image/Neural Style Transfer
+
+https://youtu.be/I-P363wSv0Q?t=2m2
+00:05:45 Advanced tips from Keras on Neural Style Transfer
+
+https://youtu.be/I-P363wSv0Q?t=5m45s1
+00:10:15 More tips to read research papers &
+“A Neural Algorithm of Artistic Style, Sep-2015”
+
+https://youtu.be/I-P363wSv0Q?t=10m15s2
+00:23:00 From Style Transfer to Generative Models
+
+https://youtu.be/I-P363wSv0Q?t=23m2
+00:32:50 “Perpetual Losses for Real-Time Style Transfer
+& Super-Resolution, Mar-2016”
+
+https://youtu.be/I-P363wSv0Q?t=32m50s
+00:39:30 Implementation notebook w/ re-use of ‘bcolz’ arrays from Part 1.
+
+https://youtu.be/I-P363wSv0Q?t=39m30s4
+00:43:00 Digress: how “practical” are the tools learnt in Part 2, vs. Part 1 ?
+
+https://youtu.be/I-P363wSv0Q?t=43m
+00:52:10 Two approaches to up-sampling: Deconvolution & Resizing
+
+https://youtu.be/I-P363wSv0Q?t=52m10s2
+01:09:30 TQDM library: add a progress meter to your loops
+
+https://youtu.be/I-P363wSv0Q?t=1h9m30s
+01:17:30 Fast Style Transfer w/ “Supplementary Material, Mar-2016”
+
+https://youtu.be/I-P363wSv0Q?t=1h17m30s
+01:27:45 Ugly artifacts like “checkerboard”: cause and fixes; Keras UpSampling2D
+
+https://youtu.be/I-P363wSv0Q?t=1h27m45s2
+01:31:20 ImageNet Processing in parallel
+
+https://youtu.be/I-P363wSv0Q?t=1h31m20s1
+01:33:15 DeVISE research paper
+
+https://youtu.be/I-P363wSv0Q?t=1h33m15s
+01:38:00 Digress: Tips on path setup for SSD vs. HD
+
+https://youtu.be/I-P363wSv0Q?t=1h38m
+01:42:00 words, vectors = zip(*w2v_list)
+
+https://youtu.be/I-P363wSv0Q?t=1h42m1
+01:49:30 Resize images
+
+https://youtu.be/I-P363wSv0Q?t=1h49m30s1
+01:52:15 Three ways to make an algorithm faster:
+memory locality,
+simd/vectorization,
+parallel processing
+
+https://youtu.be/I-P363wSv0Q?t=1h52m15s1
+Lesson 10 video timeline
+
+00:00:10 Picking an optimizer for Style Transfer (student post on Medium)
+Plus other student posts and tips on class project.
+
+https://youtu.be/uv0gmrXSXVg?t=16s2
+00:07:30 Use Excel to understand Deep Learning concepts
+
+https://youtu.be/uv0gmrXSXVg?t=7m30s
+00:09:20 ImageNet Processing (continued from Lesson 9)
+& Tips to speed up your model (simd & parallel processing)
+
+https://youtu.be/uv0gmrXSXVg?t=9m20s1
+00:26:45 Adding Preprocessing to Keras ResNet50
+
+https://youtu.be/uv0gmrXSXVg?t=26m45s1
+00:28:30 Transfer Learning with ResNet in Keras: difficulty #1
+
+https://youtu.be/uv0gmrXSXVg?t=28m30s2
+00:33:40 Transfer Learning with ResNet in Keras: difficulty #2
+
+https://youtu.be/uv0gmrXSXVg?t=33m40s
+00:38:00 Use batches to overcome RAM “Out of Memory”
+
+https://youtu.be/uv0gmrXSXVg?t=38m2
+00:42:00 Final layers to our ResNet model
+
+https://youtu.be/uv0gmrXSXVg?t=42m1
+00:47:00 Nearest Neighbors to look at examples
+
+https://youtu.be/uv0gmrXSXVg?t=47m
+00:55:00 Fine-Tuning our models and more “Out of Memory” fixes
+
+https://youtu.be/uv0gmrXSXVg?t=55m1
+01:03:00 Find images similar to a word or phrase &
+Find images similar to an image !
+
+https://youtu.be/uv0gmrXSXVg?t=1h3m2
+01:08:15 Homework discussion
+
+https://youtu.be/uv0gmrXSXVg?t=1h8m15s
+01:16:45 How to: multi-input models on large datasets
+
+https://youtu.be/uv0gmrXSXVg?t=1h16m45s3
+01:23:15 Generative Adversarial Networks (GAN) in Keras
+
+https://youtu.be/uv0gmrXSXVg?t=1h23m15s2
+01:32:00 Multi-Layer-Perceptron (MLP)
+
+https://youtu.be/uv0gmrXSXVg?t=1h32m1
+01:37:10 Deep Convolutional GAN (DCGAN)
+
+https://youtu.be/uv0gmrXSXVg?t=1h37m10s2
+01:40:15 Wasserstein GAN in Pytorch
+
+https://youtu.be/uv0gmrXSXVg?t=1h40m15s5
+01:46:30 Introduction to Pytorch
+
+https://youtu.be/uv0gmrXSXVg?t=1h46m30s4
+01:55:20 Wasserstein GAN in Pytorch (cont.)
+& LSUN dataset
+
+https://youtu.be/uv0gmrXSXVg?t=1h55m20s1
+02:05:00 Examples of generated images
+
+https://youtu.be/uv0gmrXSXVg?t=2h5m
+02:09:15 Lesson 10 conclusion and assignments for Lesson 11
+
+https://youtu.be/uv0gmrXSXVg?t=2h9m15s
+Lesson 11 video timeline
+
+00:00:30 Tips on using notebooks and reading research papers
+
+https://youtu.be/bZmJvmxfH6I?t=30s1
+00:03:15 Follow-up on lesson 10 and more word-to-image searches
+
+https://youtu.be/bZmJvmxfH6I?t=3m15s
+00:07:30 Linear algebra cheat sheet for deep learning (student’s post on Medium)
+& Zero-Shot Learning by Convex Combination of Semantinc Embeddings (arXiv)
+
+https://youtu.be/bZmJvmxfH6I?t=7m30s
+00:10:00 Systematic evaluation of CNN advances on ImageNet (arXiv)
+ELU better than RELU, learning rate annealing, different color transformations,
+Max pooling vs Average pooling, learning rate & batch size, design patterns.
+
+https://youtu.be/bZmJvmxfH6I?t=10m1
+00:27:15 Data Science Bowl 2017 (Cancer Diagnosis) on Kaggle
+
+https://youtu.be/bZmJvmxfH6I?t=27m15s
+00:36:30 DSB 2017: full preprocessing tutorial, + others.
+
+https://youtu.be/bZmJvmxfH6I?t=36m30s
+00:48:30 A non-deep-learning approach to find lung nodules (research)
+
+https://youtu.be/bZmJvmxfH6I?t=48m30s
+00:53:00 Clustering (and why Jeremy wasn’t a fan before)
+
+https://youtu.be/bZmJvmxfH6I?t=53m2
+01:08:00 Using Pytorch with GPU for ‘meanshift’ (clustering cont.)
+
+https://youtu.be/bZmJvmxfH6I?t=1h8m4
+01:22:15 Candidate Generation and LUNA 16 (Kaggle)
+
+https://youtu.be/bZmJvmxfH6I?t=1h22m15s1
+01:26:30 Accelerating K-Means on GPU via CUDA (research)
+
+https://youtu.be/bZmJvmxfH6I?t=1h26m30s
+01:27:15 ChatBots ! (long section)
+Staring with “memory networks” at Facebook (research)
+
+https://youtu.be/bZmJvmxfH6I?t=1h27m15s5
+01:57:30 Recurrent Entity Networks: an exciting area of research in Memory Networks
+
+https://youtu.be/bZmJvmxfH6I?t=1h57m30s
+01:58:45 Concept of “Attention” and “Attentional Models”
+
+https://youtu.be/bZmJvmxfH6I?t=1h58m45s4
+Lesson 12 video timeline
+
+00:00:05 K-means clustering in TensorFlow
+
+https://youtu.be/jy1w0mPCHb0?t=5s
+00:06:00 ‘find_initial_centroids’, a simple heuristic
+
+https://youtu.be/jy1w0mPCHb0?t=6m
+0012:30 A trick to make TensorFlow feel more like Pytorch
+& other tips around Broacasting, GPU tensors and co.
+
+https://youtu.be/jy1w0mPCHb0?t=12m30s1
+00:24:30 Student’s question about “figuring out the number of clusters”
+
+https://youtu.be/jy1w0mPCHb0?t=24m30s
+00:26:00 “Step 1 was to copy our initial_centroids and copy them into our GPU”,
+"Step 2 is to assign every point and assign them to a cluster "
+
+https://youtu.be/jy1w0mPCHb0?t=26m
+00:29:30 ‘Dynamic_partition’, one of the crazy GPU functions in TensorFlow
+
+https://youtu.be/jy1w0mPCHb0?t=29m30s1
+00:37:45 Digress: “Jeremy, if you were to start a company today, what would it be ?”
+
+https://youtu.be/jy1w0mPCHb0?t=37m45s5
+00:40:00 Intro to next step: NLP and translation deep-dive, with CMU pronouncing dictionary
+via spelling_bee_RNN.ipynb
+
+https://youtu.be/jy1w0mPCHb0?t=40m3
+00:55:15 Create spelling_bee_RNN model with Keras
+
+https://youtu.be/jy1w0mPCHb0?t=55m15s
+01:17:30 Question: "Why not treat text problems the same way we do with images’ ? "
+
+https://youtu.be/jy1w0mPCHb0?t=1h17m30s
+01:26:00 Graph for Attentional Model on Neural Translation
+
+https://youtu.be/jy1w0mPCHb0?t=1h26m3
+01:32:00 Attention Models (cont.)
+
+https://youtu.be/jy1w0mPCHb0?t=1h32m2
+01:37:20 Neural Machine Translation (research paper)
+
+https://youtu.be/jy1w0mPCHb0?t=1h37m20s
+01:44:00 Grammar as a Foreign Language (research paper)
+
+https://youtu.be/jy1w0mPCHb0?t=1h44m
+Lesson 13 video timeline
+
+00:00:10 Fast.ai student accepted into Google Brain Residency program
+
+https://youtu.be/-lx2shfA-5s?t=9s5
+00:06:30 Cyclical Learning Rates for Training Neural Networks (another student’s paper)
+& updates on Style Transfer, GAN, and Mean Shift Clustering research papers
+
+https://youtu.be/-lx2shfA-5s?t=6m30s1
+00:13:45 Tiramisu: combining Mean Shitft Clustering and Approximate Nearest Neighbors
+
+https://youtu.be/-lx2shfA-5s?t=13m45s3
+00:22:15 Facebook AI Similarity Search (FAISS)
+
+https://youtu.be/-lx2shfA-5s?t=22m15s3
+00:28:15 The BiLSTM Hegemony
+
+https://youtu.be/-lx2shfA-5s?t=28m15s1
+00:35:00 Implementing the BiLSTM, and Grammar as a Foreign Language (research)
+
+https://youtu.be/-lx2shfA-5s?t=35m
+00:45:30 Reminder on how RNN’s work from Lesson #5 (Part 1)
+
+https://youtu.be/-lx2shfA-5s?t=45m30s
+00:47:20 Why Attentional Models use “such” a simple architecture
+& “Tacotron: a Fully End-To-End Text-To-Speech Synthesis Model” (research)
+
+https://youtu.be/-lx2shfA-5s?t=47m20s2
+00:50:15 Continuing on Spelling_bee_RNN notebook (Attention Model), from Lesson 12
+
+https://youtu.be/-lx2shfA-5s?t=50m15s
+00:58:40 Building the Attention Layer and the ‘attention_wrapper.py’ walk-through
+
+https://youtu.be/-lx2shfA-5s?t=58m40s3
+01:15:40 Impressive student’s experiment with different mathematical technique on Style Transfer
+
+https://youtu.be/-lx2shfA-5s?t=1h15m40s
+01:18:00 Translate English into French, with Pytorch
+
+https://youtu.be/-lx2shfA-5s?t=1h18m1
+01:31:20 Translate English into French: using Keras to prepare the data
+Note: Pytorch latest version now supports Broadcasting
+
+https://youtu.be/-lx2shfA-5s?t=1h31m20s
+01:38:50 Writing and running the ‘Train & Test’ code with Pytorch
+
+https://youtu.be/-lx2shfA-5s?t=1h38m50s1
+01:44:00 NLP Programming Tutorial, by Graham Neubig (NAIST)
+
+https://youtu.be/-lx2shfA-5s?t=1h44m
+01:48:25 Question: “Could we translate Chinese to English with that technique ?”
+& new technique: Neural Machine Translation of Rare Words with Subword Units (Research)
+
+https://youtu.be/-lx2shfA-5s?t=1h48m25s
+01:54:45 Leaving Translation aside and moving to Image Segmentation,
+with the “The 100 layers Tiramisu: Fully Convolutional DenseNets” (research)
+and “Densely Connected Convolutional Networks” (research)
+
+https://youtu.be/-lx2shfA-5s?t=1h54m45s2
+Lesson 14 video timeline
+
+00:01:25 Time-Series and Structured Data
+& “Patient Mortality Risk Predictions in Pediatric Intensive Care, using RNN’s” (research)
+
+https://youtu.be/1-NYPQw5THU?t=1m25s4
+00:07:30 Time-Series with Rossmann Store Sales (Kaggle)
+& 3rd place solution with “a very uncool NN ;-)”.
+
+https://youtu.be/1-NYPQw5THU?t=7m30s3
+00:18:00 Implementing the Rossman solution with Keras + TensorFlow + Pandas + Sklearn
+Building Tables & Exploratory Data Analysis (EDA)
+
+https://youtu.be/1-NYPQw5THU?t=18m1
+00:27:15 Digress: categorical variable encodings and “Vtreat for R”
+
+https://youtu.be/1-NYPQw5THU?t=27m15s1
+00:30:15 Back to Rossmann solution
+& “Python for Data Analysis” (book)
+
+https://youtu.be/1-NYPQw5THU?t=30m15s
+00:36:30 What Jeremy does everytime he sees a ‘date’ in a structured ML model
+& other tips
+
+https://youtu.be/1-NYPQw5THU?t=36m30s1
+00:43:00 Dealing with duration of special events (holidays, promotions) in Time-Series
+
+https://youtu.be/1-NYPQw5THU?t=43m1
+00:52:00 Using ‘inplace=True’ in .drop(), & a look at our final ‘feature engineering’ results
+
+https://youtu.be/1-NYPQw5THU?t=52m
+00:53:40 Starting to feed our NN
+& using ‘pickle.dump()’ for storage encodings
+
+https://youtu.be/1-NYPQw5THU?t=53m40s
+01:00:45 “Their big mistake” and how they could have won #1
+
+https://youtu.be/1-NYPQw5THU?t=1h45s4
+01:05:30 Splitting into Training and Test, but not randomly
+
+https://youtu.be/1-NYPQw5THU?t=1h5m30s
+01:08:20 Why they modified their Sales Target with ‘np.log()/max_log_y’
+
+https://youtu.be/1-NYPQw5THU?t=1h8m20s1
+01:11:20 A look at our basic model
+
+https://youtu.be/1-NYPQw5THU?t=1h11m20s
+01:14:45 Training our model and questions
+
+https://youtu.be/1-NYPQw5THU?t=1h14m45s
+01:16:45 Running the same model with XGBoost
+
+https://youtu.be/1-NYPQw5THU?t=1h16m45s
+01:20:10 “The really, really, really weird things here !”
+& end of the Rossmann competition;-)
+
+https://youtu.be/1-NYPQw5THU?t=1h20m10s1
+01:26:30 Taxi Trajectory Prediction (Kaggle) with “another uncool NN” winner
+
+https://youtu.be/1-NYPQw5THU?t=1h26m30s7
+01:38:00 “Start with a Conv layer and pass it to an RNN” question and research
+
+https://youtu.be/1-NYPQw5THU?t=1h38m
+01:42:40 The 100-layers Tiramisu: Fully Convolutional Densenets, for Image Segmentation (Lesson 13 cont.)
+
+https://youtu.be/1-NYPQw5THU?t=1h42m40s3
+01:58:00 Building and training the Tiramisu model
+
+https://youtu.be/1-NYPQw5THU?t=1h58m
+02:02:50 ENet and LINKNet models: better than the Tiramisu ?
+
+https://youtu.be/1-NYPQw5THU?t=2h2m50s2
+02:04:00 Part 2: conclusion and next steps
+
+https://youtu.be/1-NYPQw5THU?t=2h4m
