@@ -1,0 +1,106 @@
+#syllabus
+
+Lecture 126
+Introductions and class basics
+
+Lecture 214
+Python basics
+Git, Symlink, AWS
+Python notebook basics
+Crash course on pandas
+FastAI introduction
+add_datepart
+train_cats
+Feather Format
+Run your first Random Forest
+
+Lecture 38
+R^2 accuracy
+How to make validation sets
+Test vs. Validation Set
+Diving into RandomForests
+Examination of One tree
+What is 'bagging’
+What is OOB Out-of-Box score
+RF Hyperparameter 1: Trees
+RF Hyperparameter 2: max Samples per leaf
+RF Hyperparameter 3: max features
+
+Lecture 48
+Forecasting: Grocery Kaggle discussion, Parallel to Rossman stores
+Random Forests: Confidence based tree variance
+Random Forests: Feature Importance Intro
+Random Forests: Decoupled Shuffling
+
+Lecture 57
+Summary of Random Forests
+Data needs to be numeric
+Categories go to numbers
+Subsampling in different trees
+Tree size
+Records per node
+Information Gain (improvement)
+Repeat process for different subsetes
+Each tree should be better
+Trees should not be correlated
+Min Leaf Samples
+Max Features
+n_jobs
+oob
+interpretting OOB vs. Training vs. Test score
+Feature Importance Deep dive
+One hot encoding
+Redundant features
+Partial Dependence
+
+Lecture 63
+What makes a good validation set?
+What makes a good test set?
+Random Forest from scratch : setup framework
+
+Lecture 74
+Motivations for data science
+Thinking about the business implications
+Tell the story
+Review of Confidence in Tree Prediction Variance, Feature importance, Partial Dependence
+
+Lecture 83
+Building a Decision Tree from scratch
+Optimizing and comparing to SKlearn
+How to do 2 levels of decision trees
+Fleshing out the RF predict function
+Assembling our own decision tree
+Cython
+
+Lecture 94
+Deep Learning
+Using pytorch and a 1-level NN
+Walkthrough of MNIST number sets
+Binary Loss func
+Making a LogReg equivalent NN pytorch
+
+Lecture 104
+Rewriting the 1-layer NN from scratch
+Rewrite LinearLayer
+Rewrite Softmax
+Understanding numpy and torch matrix operations
+Understanding Broadcasting rules
+Rewriting matrix mult from scratch
+Start looking at the fit function
+
+Lecture 117
+Rewriting fit from scratch
+Digression of Momentum
+Rewriting gradient and step within fit function
+NLP
+Bag of words / CountVectorizer
+LogisticRegression w. Sentiment
+
+Lecture 12
+NLP : trigrams
+Naive Bayes Classifier
+Binarized version of NB
+NBSVM - combination of probs
+Storage efficiency of 1-hot
+RossMan store examination
+Introduction to embeddings
